@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.865" height="122.241" viewBox="0 0 82.865 122.241">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ea033"/>
+      <stop offset="1" stop-color="#abcf39"/>
+    </linearGradient>
+  </defs>
+  <path id="blob" d="M46.411-1.582c5.6,18.229.2,36-12.038,44.723C22.133,52,3.182,52.064-12.182,41-27.547,30.059-37.7,10.918-33.146-5.878-28.458-22.545-5.581-38.671,11.736-37.89,28.924-37.239,40.682-19.811,46.411-1.582Z" transform="translate(34.242 37.917)" fill="url(#linear-gradient)"/>
+  <text id="_" data-name="?" transform="translate(33 99.241)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">?</tspan></text>
+</svg>
